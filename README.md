@@ -17,7 +17,3 @@
   <img src="https://img.shields.io/badge/SCSS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
-
-<br />
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frequired%2Dtrue&count_bg=%23006FBE&title_bg=%23004170&icon=&icon_color=%23FFFFFF&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
