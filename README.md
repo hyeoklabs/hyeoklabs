@@ -1,6 +1,6 @@
-<h3>Hi there, I'm Jack 👋</h3>
+<h3>Hi there 👋</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=required-true&show_icons=true&theme=vue-dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeoklabs&show_icons=true&theme=vue-dark)
 
 <h3>Tech Stack 🛠</h3>
 
